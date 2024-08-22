@@ -1,7 +1,7 @@
 # maxim-BiLSTM
 Repository for my thesis
 
-This repo contains code for sentiment analysis using the bidirectional LSTM model, or BiLSTM for short. Specifically, I'll train models to predict sentiment from Google Play Store reviews of the mobile app Maxim.
+This repo contains code for sentiment analysis using the bidirectional LSTM model, or BiLSTM for short. Specifically, I'll train a model to predict sentiment from Google Play Store reviews of the mobile app Maxim.
 
 ## Getting Started
 
