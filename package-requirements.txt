@@ -1,8 +1,7 @@
-google_play_scraper (for scraping Play Store review data)
-os (for changing working directory)
-json ()
-csv ()
-
+google_play_scraper
+os
+json
+csv
 pandas
 torch
 numpy
