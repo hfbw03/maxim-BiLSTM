@@ -1,0 +1,12 @@
+google_play_scraper (for scraping Play Store review data)
+os (for changing working directory)
+json ()
+csv ()
+
+pandas
+torch
+numpy
+datasets
+torchtext
+tqdm
+matplotlib
