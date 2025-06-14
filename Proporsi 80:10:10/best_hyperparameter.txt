@@ -1,0 +1,2 @@
+Best Hyperparameters: {'hidden_dim': 128, 'dropout': 0.3, 'n_layers': 2, 'learning_rate': 0.0001, 'batch_size': 32}
+Best Validation F1-score: 0.873
