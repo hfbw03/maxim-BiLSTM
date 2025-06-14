@@ -23,9 +23,8 @@ Kode dibuat dan dijalankan pad Python versi 3.8. Untuk menjalankan kode pada not
 - numpy
 - seaborn
 - re
-- pytorch
+- torch
 - matplotlib
-- string
 - google-play-scraper
 - nltk
 
