@@ -29,4 +29,4 @@ Kode dibuat dan dijalankan pad Python versi 3.8. Untuk menjalankan kode pada not
 - google-play-scraper
 - nltk
 
-Untuk daftar komprehensif package beserta versi yang digunakan, bisa dilihat pada ...
+Untuk daftar komprehensif package beserta versi yang digunakan, bisa dilihat pada `requirements.txt`
