@@ -3,7 +3,7 @@ Repositori untuk penelitian analisis sentimen menggunakan kombinasi model deep l
 
 ## Tujuan
 
-The main objectives of this project are as follows:
+Tujuan yang ingin dicapai dalam dalam penelitian kali ini adalah sebagai berikut:
 
 1. Mengetahui hasil accuracy, precision, recall, dan f1‑score dari model BiLSTM dengan word embedding fastText dalam analisis sentimen ulasan pengguna aplikasi transportasi online Maxim.
 2. Mengetahui hasil dari analisis sentimen ulasan pengguna aplikasi transportasi online Maxim.
